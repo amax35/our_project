@@ -22,5 +22,5 @@ def getPhotos(login, passwd):
     return arr    
     
 
-arr = getPhotos('gt515ru@gmail.com', 'I27mVnAuq7O51SmpjgfcIMj2')
+arr = getPhotos('login', 'pass')
 print (len(arr))
